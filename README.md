@@ -1,5 +1,4 @@
 ## Hi there, I'm Scott. Thanks for visiting my GitHub! 
-___
 
 ## 🔭 I’m currently working on...
 This summer, I'm working as a Lapenta Intern at the National Satellite Operations Facility in Suitland, Maryland. 
