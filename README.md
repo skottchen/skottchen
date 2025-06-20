@@ -1,7 +1,7 @@
 ## Hi there, I'm Scott. Thanks for visiting my GitHub! 
 
 ## 🔭 I’m currently working on...
-This summer, I'm working as a Lapenta Intern at the National Satellite Operations Facility in Suitland, Maryland, where I develop and optimize GOES Product Engineering Tools. These tools support satellite operators with real-time monitoring, diagnostics, performance tracking, and anomaly detection for the four GOES satellites currently in orbit. The tech stack that I'm utilizing for this role is Python, Bash, Linux, and Git. 
+This summer, I'm working as a Lapenta Intern at the National Satellite Operations Facility in Suitland, Maryland, where I develop and optimize GOES Product Engineering Tools. These tools support satellite operators with real-time monitoring, diagnostics, performance tracking, and anomaly detection for the four GOES satellites currently in orbit around Earth. The tech stack that I'm utilizing for this role is Python, Bash, Linux, and Git. 
 
 <!--
 **skottchen/skottchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
