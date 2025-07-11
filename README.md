@@ -4,7 +4,7 @@
 I will soon be graduating from the University of Maryland, College Park, in August with a B.S. in Information Science. After graduation, I hope to secure a full-time software development role in the space or satellite industry, ideally aligned with the work I'm doing during my internship (see next section). 
 
 ## 🔭 I’m currently working on...
-This summer, I'm working as a Software Development Intern at the NOAA Satellite Operations Facility in Suitland, Maryland, where I develop and optimize GOES (Geostationary Operational Environmental Satellites) Image Navigation and RegistrationTools. The tech stack that I'm utilizing for this role is Python, Bash, Linux, and Git. 
+This summer, I'm working as a Software Development Intern at the NOAA Satellite Operations Facility in Suitland, Maryland, where I develop and optimize GOES (Geostationary Operational Environmental Satellites) Image Navigation and Registration Tools. The tech stack that I'm utilizing for this role is Python, Bash, Linux, and Git. 
 
 <!--
 **skottchen/skottchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
